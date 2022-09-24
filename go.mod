@@ -1,3 +1,3 @@
-module github.com/kpango/fastime
+module github.com/MasterDimmy/fastime
 
 go 1.18
